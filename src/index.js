@@ -1,8 +1,10 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
-import registerServiceWorker from './registerServiceWorker';
+import React from 'react'
+import ReactDOM from 'react-dom'
 
-ReactDOM.render(<App />, document.getElementById('root'));
-registerServiceWorker();
+import Home from './components/pages/home'
+
+const title = 'Effect CMS - Made with Magic'
+
+ReactDOM.render(<Home />, document.getElementById('app'))
+
+module.hot.accept();
