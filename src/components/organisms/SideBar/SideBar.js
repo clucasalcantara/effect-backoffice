@@ -49,7 +49,7 @@ class SideBar extends Component {
             </SideBarCollapsed>
           ) 
         }
-        <MenuItem menuItem={{ label: 'Publish', action: () => {} }} />
+        <MenuItem style={{ }}menuItem={{ label: 'Publish', action: () => {} }} />
       </Fragment>
     )
   }
