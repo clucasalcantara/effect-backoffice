@@ -1,4 +1,5 @@
 box: node
-  build:
-    steps:
-      - yarn dev
+
+build:
+  steps:
+    - yarn
