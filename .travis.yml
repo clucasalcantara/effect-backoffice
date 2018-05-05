@@ -1,7 +1,0 @@
-language: node
-
-services:
-  - docker
-
-script:
-  - yarn dev
