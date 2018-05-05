@@ -2,4 +2,12 @@ box: node
 
 build:
   steps:
-    - yarn
+    - script:
+      name: install yarn
+      code: |
+        npm install -g yarn
+    
+    - script:
+        name: install dependencies
+        code: |
+          yarn
