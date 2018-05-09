@@ -1,4 +1,7 @@
-## Effect CMS
+<div align="center">
+  <img src="https://ibb.co/ggzbg7" />
+</div>
+
 [![wercker status](https://app.wercker.com/status/6890c84f56414000c05337d48b1c8ac7/s/master "wercker status")](https://app.wercker.com/project/byKey/6890c84f56414000c05337d48b1c8ac7)
 [![Maintainability](https://api.codeclimate.com/v1/badges/813cf762d3aa8945e110/maintainability)](https://codeclimate.com/github/clucasalcantara/magicbox-cms/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/813cf762d3aa8945e110/test_coverage)](https://codeclimate.com/github/clucasalcantara/magicbox-cms/test_coverage)
@@ -14,3 +17,4 @@ We are trying to provide an Easy interface to create _Pages_, _Navigations_, _Ga
 <div align="center">
   <img src="https://media0.giphy.com/media/12NUbkX6p4xOO4/giphy.gif" />
 </div>
+
