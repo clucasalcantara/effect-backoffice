@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ibb.co/ggzbg7" />
+  <img src="https://image.ibb.co/kfASon/Effect_Logo.png" />
 </div>
 
 [![wercker status](https://app.wercker.com/status/6890c84f56414000c05337d48b1c8ac7/s/master "wercker status")](https://app.wercker.com/project/byKey/6890c84f56414000c05337d48b1c8ac7)
